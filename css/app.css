@@ -1,0 +1,29 @@
+body {
+	background-color: #191919;
+	color: #dcf1f9;
+}
+
+.button {
+	color: #fff;
+	border-color: #fff;
+  border-radius: 100px;
+}
+.button:hover, .button:focus {
+	color: #fff;
+}
+
+.section {
+  padding: 8rem 0 7rem;
+  text-align: center;
+}
+
+.hero {
+	padding: 10rem 0px
+}
+ img {
+ 	width: 50%;
+  padding-top: 20px;
+ }
+ footer {
+ 	padding-top: 100px;
+ }
